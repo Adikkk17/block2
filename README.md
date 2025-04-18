@@ -1,4 +1,4 @@
-hello_world — Solana Smart Contract
+#hello_world — Solana Smart Contract
 A simple smart contract on the Solana blockchain demonstrating basic program interaction.
 
 Description
